@@ -1,0 +1,18 @@
+*{
+    background-color: tomato;
+}
+
+.header{
+    padding-bottom: 20px;
+    font-family: sans-serif;
+}
+.dateAndTime{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.refresh{
+    background-color: ghostwhite;
+    height: 25px;
+    font-weight: bold;
+}
